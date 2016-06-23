@@ -1,0 +1,17 @@
+{# Layout global pour le controller #}
+
+{% extends "::layout.html.twig" %}
+
+{% block title %}
+	Annonces - {{ parent() }}
+{% endblock %}
+
+{% block body %}
+	<h1>Annonces</h1>
+
+	<hr/>
+
+	{% block ocplatform_body %}
+	{% endblock %}
+
+{% endblock %}

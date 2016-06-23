@@ -1,0 +1,9 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/Raphael/Sites/test_symfony",
+			"folder_exclude_patterns": ["project"]
+		}
+	]
+}
